@@ -1,3 +1,3 @@
 This is my story. It begins in a dark basement in a suburb of a major city. Stacked on two milk crates was an IBM PS/2 - a computer with only green text and the loudest keyboard you've ever heard. It was only a terminal really, it couldn't do anything until it was logged into the mainframe at my Dad's work. But he didn't let us do that, so we just played around typing random things until it did something or we got bored. This is all we had for a while, and I got bored.
 
-And then I discovered QBasic.
+And then I discovered QBasic
